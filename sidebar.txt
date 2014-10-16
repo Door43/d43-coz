@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[coz:home|Door43 (coz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-coz|d43-coz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-coz/archive/master.zip|d43-coz.zip]]
+
+**Recent Changes**
+{{changes>ns = coz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/coz|Ethnologue data]]
+
